@@ -1,0 +1,15 @@
+DataBase info:
+---------------------
+Database name: aysha's recipe
+Database username: mamun
+Database password: 8zVG]aG@aGlS[t/-
+Database host: localhost
+Table prefix: mr_
+
+
+Wordpress Dashboard login info:
+---------------------------------
+Site Title: aysha's recipe
+Username: Mamun
+Password: mamun464
+mail: mamunurrashid.s.bd@gmail.com
